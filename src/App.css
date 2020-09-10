@@ -1,0 +1,12 @@
+html { overflow-x: hidden; }
+button { outline: none; }
+
+label {
+  text-transform: capitalize;
+  letter-spacing: .5px;
+}
+
+.credit-card, form{
+  padding: 20px;
+  margin: 0 auto 10px;
+}
